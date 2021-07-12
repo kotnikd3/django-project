@@ -1,2 +1,2 @@
 # django-project
-Simple project in Django
+Full stack project  in Django for learning purpose.
